@@ -17,7 +17,7 @@
 the fifth : hw branch merge local master ? can i ? no,i can't .
 
 sixth : can i just commit hw then the master can see the result  ?
-yes, you can . nono ,i'll try it again.
+yes, you can . nono ,i'll try it again. oh, it's true!
 
 seventh : hw ,can you push it to show me the result ?
 
