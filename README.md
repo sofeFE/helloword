@@ -22,3 +22,7 @@ yes, you can .
 seventh : hw ,can you push it to show me the result ?
 
 ok, master, let me try it , i think that's ok /
+
+hw, this is the fact: i must merge you that i can see your pushed result  .
+
+fuck
