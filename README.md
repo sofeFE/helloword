@@ -13,4 +13,7 @@
 第三次进行 git练习 . 好笨啊.
 
 第四次: hw分支 .
+
 the fifth : hw branch merge local master ? can i ? no,i can't .
+
+sixth : can i just commit hw then the master can see the result  ?
