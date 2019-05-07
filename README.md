@@ -20,3 +20,5 @@ sixth : can i just commit hw then the master can see the result  ?
 yes, you can . 
 
 seventh : hw ,can you push it to show me the result ?
+
+ok, master, let me try it , i think that's ok /
