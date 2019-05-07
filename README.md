@@ -26,3 +26,6 @@ ok, master, let me try it , i think that's ok /
 hw, this is the fact: i must merge you that i can see your pushed result  .
 
 fuck
+
+so the fact is this : my branch commit something, i can see it through merge .
+i push it to origin master ,my branch just can see it through pull from origin master. 
